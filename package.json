@@ -1,8 +1,19 @@
 {
     "name": "ly-uilibs",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "private": false,
     "license": "MIT",
+    "main": "lib/lyUi.js",
+    "files": [
+        "lib",
+        "packages",
+        "package.json",
+        "typings",
+        "README.md"
+    ],
+    "module": "lib/lyUi.js",
+    "style": "lib/lyUi.css",
+    "typings": "typings/index.d.ts",
     "scripts": {
         "serve": "vue-cli-service serve",
         "customServe": "webpack serve --progress",

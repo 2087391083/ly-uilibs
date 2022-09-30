@@ -17,7 +17,7 @@ module.exports = merge(webpackLibBaseConfig, {
         // 打包后生成的js文件
         filename: '[name].js',
         publicPath: '/',
-        library: 'lyUi',
+        library: 'ly-uilibs',
         libraryTarget: 'umd',
         libraryExport: 'default',
         umdNamedDefine: true,
