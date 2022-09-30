@@ -16,5 +16,7 @@
 
 // export * from './collapse'
 
-export * from './components/HomeView/index'
-export * from './components/TestPageLy/index'
+import { HomeView } from './components/HomeView'
+import { TestPageLy } from './components/TestPageLy'
+
+export { HomeView, TestPageLy }
