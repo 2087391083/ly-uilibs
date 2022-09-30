@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://lyUi/packages/components/TestPageLy/src/TestPageLy.scss"],"names":[],"mappings":"AAAA,YACI,wBAAA","file":"lyUi.css","sourcesContent":[".TestPageLy {\r\n    background-color: paleturquoise;\r\n}"]}
